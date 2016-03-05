@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.d7.carshare" version="0.1.0">
+  <name>CarShare</name>
+  <description>
+   Find closest car share!
+  </description>
+  <author email="igor@domain7.com" href="http://domain7.com">
+   Domain7 Team
+  </author>
+</widget>
+
+
+<gap:plugin name="https://github.com/eclipsesource/tabris-maps" />

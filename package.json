@@ -1,0 +1,8 @@
+{
+  "name": "carshare",
+  "description": "Carshare Aggregator",
+  "main": "hello.js",
+  "dependencies": {
+    "tabris": "^1.1.0"
+  }
+}
