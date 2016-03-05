@@ -7,7 +7,9 @@
   <author email="igor@domain7.com" href="http://domain7.com">
    Domain7 Team
   </author>
+
+  <gap:plugin name="https://github.com/eclipsesource/tabris-maps" />
+
 </widget>
 
 
-<gap:plugin name="https://github.com/eclipsesource/tabris-maps" />
