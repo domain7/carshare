@@ -8,7 +8,7 @@
    Domain7 Team
   </author>
 
-  <gap:plugin name="https://github.com/eclipsesource/tabris-maps" />
+  <!-- <gap:plugin name="https://github.com/eclipsesource/tabris-maps" /> -->
 
 </widget>
 
